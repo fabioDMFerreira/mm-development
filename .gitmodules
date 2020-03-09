@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/fabioDMFerreira/money-management-backend
+[submodule "client"]
+	path = client
+	url = https://github.com/fabioDMFerreira/money-management
